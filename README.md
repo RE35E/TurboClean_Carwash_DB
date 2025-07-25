@@ -1,6 +1,6 @@
 # TurboClean Carwash Database System
 
-This project is a relational database designed for **TurboClean**, a fictional carwash business based in Cape Town, developed as part of an academic assignment. The SQL system models the business’s operational and data needs with a focus on improving efficiency, reducing redundancy, and supporting managerial decision-making.
+This project is a relational database designed for **TurboClean**, a fictional carwash business based in Cape Town, developed as part of an academic assignment. The SQL system models the business’s operational and data needs with a focus on improving efficiency, reducing redundancy, and supporting managerial decision-making. Developed using Oracle SQL Developer as part of an academic assignment.
 
 ## Project Context
 
